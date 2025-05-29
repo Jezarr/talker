@@ -1,0 +1,7 @@
+{
+  "name": "Talker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
